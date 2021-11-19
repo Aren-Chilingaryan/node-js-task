@@ -1,0 +1,16 @@
+.card {
+    text-align: center;
+    width: 60px;
+    height: 15px;
+    margin: 20px;
+    border: 1px solid black;
+    padding: 20px;
+}
+.container{
+    display:flex
+}
+ .get{
+     width:20;
+     height: 30px;
+     background-color: red;
+ }
