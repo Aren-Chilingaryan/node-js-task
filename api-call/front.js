@@ -1,5 +1,4 @@
 const x = document.getElementsByClassName("card");
-const numbers = [1, 2, 32, 5];
 let dataNumbers = [];
 
 function numberInDiv(array) {
